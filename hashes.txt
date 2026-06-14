@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Las huellas de tus pasos
+
+This log tracks the cryptographic history and versioning for the song **Las huellas de tus pasos** (las-huellas-de-tus-pasos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:28:36.899532 | `v1` | `2a59a0a3f0b692575daac4a352407100eadd909a0b97b533ccb4874e1a0ac790` | `3f7acfc87fea982f53a5296533806820e425df1eb350a6f44d735fe618d33d7f` | `2026-06-14_las-huellas-de-tus-pasos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

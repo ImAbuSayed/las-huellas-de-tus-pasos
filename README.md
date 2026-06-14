@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/las-huellas-de-tus-pasos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Las huellas de tus pasos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/las-huellas-de-tus-pasos/) |
+| **Get License** | [Request Licensing for Las huellas de tus pasos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/las-huellas-de-tus-pasos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2a59a0a3f0b692575daac4a352407100eadd909a0b97b533ccb4874e1a0ac790` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
